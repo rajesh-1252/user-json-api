@@ -17,5 +17,5 @@ For backend
 
 Backend architecture:
 
-1. Used Middleware and express-async-errors to hanlde error in controllers instead of manully using trycatch block
-2. Used logger for Internal server error and custom error hanlder for user specific error
+1. Used Middleware and express-async-errors to handle error in controllers instead of manually using trycatch block
+2. Used logger for Internal server error and custom error handler for user specific error
